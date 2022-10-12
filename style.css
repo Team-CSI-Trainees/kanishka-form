@@ -1,0 +1,82 @@
+body{
+    background-color:black;
+}
+.main {
+    margin-top: 50px;
+    margin-left: 10%;
+    background-color: powderblue;
+    width: 80%;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 15px;
+    height: 600px;
+}
+
+.field {
+    margin-left: 10%;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+#name {
+    width: 600px;
+    margin: 5px 0px 5px 105px;
+    color: floralwhite;
+    background-color: black;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#eMail {
+    width: 600px;
+    margin: 5px 0px 5px 111px;
+    color: floralwhite;
+    background-color: black;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#phone {
+    width: 600px;
+    margin: 5px 0px 5px 24px;
+    color: floralwhite;
+    background-color: black;
+    height: 30px;
+    border-radius: 5px;
+
+}
+#password {
+    width: 600px;
+    margin: 5px 0px 5px 63px;
+    color: floralwhite;
+    background-color: black;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#Cpassword {
+    width: 600px;
+    margin: 5px 0px 5px 40px;
+    color: floralwhite;
+    background-color: black;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#submit {
+    width: 120px;
+    height: 30px;
+    border: 2px;
+    margin-top: 20px;
+    margin-left: 45%;
+    border-style: solid;
+    border-color: black;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 5px;
+}
